@@ -8,6 +8,7 @@
     </q-toolbar>
 
  <q-input filled v-model="text" label="Filled" placeholder="enter needs to be done" />
+ <q-btn icon="add" label="add"/>
 <ul>
 <li>asd</li>
 <li>asd</li>
